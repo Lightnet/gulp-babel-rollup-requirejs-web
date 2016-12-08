@@ -1,5 +1,6 @@
+# gulp-babel-rollup-requirejs-web
 
-Simple gulp rollupjs and requirejs auto build for browser javascript.
+Simple gulp balel es6 rollupjs and requirejs auto build for browser javascript.
 
 Note it will requirejs to work in web browser. The main.js file src and main.js lib are different but similar. It is the main entry point for javascript.
 
